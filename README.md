@@ -21,7 +21,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 ## 🚀 Instalando <blog-codar-php>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o <blog-codar-php>, siga estas etapas:
 
 Baixo o codigo, coloque dentro da sua pasta Htdocs do xampp e teste.
 
