@@ -1,7 +1,7 @@
 <?php
-    include_once ("helpers/url.php");
-    include_once ("data/posts.php");
-    include_once ("data/categories.php");
+    include_once ("api/helpers/url.php");
+    include_once ("api/data/posts.php");
+    include_once ("api/data/categories.php");
 ?>
 
 <!DOCTYPE html>
